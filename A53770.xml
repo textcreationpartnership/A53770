@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement, concerning the printing and publishing of ancient and other usefull books.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53770</idno>
+            <idno type="STC">Wing O858B</idno>
+            <idno type="STC">ESTC R214674</idno>
+            <idno type="EEBO-CITATION">99826767</idno>
+            <idno type="PROQUEST">99826767</idno>
+            <idno type="VID">31173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement, concerning the printing and publishing of ancient and other usefull books.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:31173:1" rendition="simple:additions"/>
+            <head>An Advertiſment, concerning the Printing and Publiſhing of Ancient and other <g ref="char:V">Ʋ</g>ſefull Books.</head>
+            <p>VVHereas diverſe Perſons of eminent Quality and Learn<g ref="char:EOLhyphen"/>ing, have made it their complaint that ſeveral uſefull and neceſſary Books are loſt to the World, and ne<g ref="char:EOLhyphen"/>ver likely to be publiſht, becauſe men of Trade, only intent upon their gain, will not be at the expence and hazard of ſuch impreſ<g ref="char:EOLhyphen"/>ſions, as chiefly point at the honor and improvement of knowledge; and endeavor to fruſtrate the deſign lately conceiv'd in this place of publiſhing from MSS. copies in Libraries, conſiderable Writers not yet Printed, and of making more correct and perfect editions of many of the ancient Fathers and Authors, by collating them with MSS. copies that have not yet bin conſider'd; and alſo of bringing down the exceſſive price of books, and advancing the Printing ma<g ref="char:EOLhyphen"/>nufacture in this Nation: And whereas we the undertakers for the Preſs in the Univerſity of <hi>Oxford</hi> have bin earneſtly deſir'd by the ſaid honourable Perſons, that we would effectually proceed in the editions of thoſe books which we have publicly declar'd to be rea<g ref="char:EOLhyphen"/>dy for the Preſs, and have propounded others themſelves which they eſteem equally deſirable: to which our anſwer was that we are and ſhall be alwaies ready to Print whatever Book ſhall be pro<g ref="char:EOLhyphen"/>pos'd to us for the public ſervice, in whatever Language and Facul<g ref="char:EOLhyphen"/>ty it happen to be, and ſhall take care for the accurate correction thereof, provided that there ſhall be certainly taken off five hundred copies of every book when it is printed: which offer the ſaid hono<g ref="char:EOLhyphen"/>rable Perſons have approved, and have deſir'd that it might be pu<g ref="char:EOLhyphen"/>blicly ſignified, not doubting but that ſo many will be found to join with them as would make up the number requir'd, and free the Preſs from dependance upon men of trade, and other hazards; and alſo open a way for the publiſhing of all uſefull books.</p>
+            <p>In conſideration of the premiſes, and compliance with the deſires above expreſt, we the Undertakers for the Preſs in the Univerſity of <hi>Oxford</hi> do publicly offer, tha if twenty five Perſons ſhall pleaſe ſo far to promite this affair, as to make a correſpondence each with twenty Perſons, for whom they will be reſponſible, that they will join in the before mention's engagement, of taking off ſuch book or books as they deſire to have printed, that then the edition of the ſaid book or books ſhall immediatly be ſet in hand with, according to the direction and appointment of the ſaid five and twenty Perſons, or the major part of them, who ſhall order the Paper, Character, diſ<g ref="char:EOLhyphen"/>poſition of the Work, and price thereof; and the book or books, when finiſht, ſhall be deliver'd to the hands or order of the ſaid five and twenty Perſons, for the uſe of themſelves, and thoſe whom they correſpond with. Which courſe ſhall be continued fromm time to time upon the terms above expreſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_books_in_press">
+            <pb facs="tcp:31173:2"/>
+            <head>Books in the THEATER Preſs upon the account of the Undertakers of the Univerſity, beſides thoſe ſet in hand with by <hi>M. Pitt</hi> and his Partners.</head>
+            <list>
+               <item>JOſephus his Works <hi>Gr. Lat.</hi>
+               </item>
+               <item>St. Cyprians Works <hi>Lat.</hi>
+               </item>
+               <item>Ptolemies Harmonics <hi>Gr. Lat.</hi>
+               </item>
+               <item>Job. Scotus Erigena of the Diviſion of Na<g ref="char:EOLhyphen"/>ture <hi>Lat.</hi>
+               </item>
+               <item>Lactantius his Works <hi>Lat.</hi>
+               </item>
+               <item>A Comment on Hoſea by Dr. Pocock <hi>Engliſh.</hi>
+               </item>
+               <item>The four Evangelists in he <hi>Egyptian Tongue.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_books_prepared_for_press">
+            <head>Books ready for the Preſs.</head>
+            <list>
+               <item>Damaſcius of the Principles of things <hi>Gr. never Printed.</hi>
+               </item>
+               <item>Jo. Antiochen. Hist. <hi>Gr. Lat. never Printed.</hi>
+               </item>
+               <item>Arabic Proverbs to the number of ſix thouſand, <hi>never Printed.</hi>
+               </item>
+               <item>Juchaſin, or an account of Learned men among the Jews <hi>Heb. &amp; Lat.</hi>
+               </item>
+               <item>The New Teſtament in Greek diligently reviſed, and collated with many MSS. not before met with.</item>
+               <item>The Targum on the Books of Chronicles <hi>Heb. &amp; Lat.</hi> by Mr. Sam. Clerk.</item>
+               <item>A Concordance of the Septuagint, according to the Greek Alphabet.</item>
+               <item>Ceſars Commentaries in <hi>Lat.</hi> reviſed, and Illu<g ref="char:EOLhyphen"/>ſtraed with Figures.</item>
+               <item>The Epistles of Libanius <hi>Gr. never Printed.</hi>
+               </item>
+               <item>The Saxon Gloſſary and Etymologicon of Mr. Francis Junius <hi>never Printed.</hi>
+               </item>
+               <item>The Letters of Thomas Becket <hi>Lat. never yet Printed.</hi>
+               </item>
+               <item>
+                  <hi>Engliſh-Hiſtorians in Latin, not yet extant, ſuch as are</hi>
+               </item>
+               <item>"The Annals of England by N. Trivet, with the continuation of Adam Merimuth.</item>
+               <item>"The Annals of Burton.</item>
+               <item>"The Engliſh Chronicle by Peter de Ickham.</item>
+               <item>"The Antiquities of Glaſtenbury, by William of Malmsbury.</item>
+               <item>"His fifth Book of Biſhops.</item>
+               <item>"The History of England by Jo. Roſs.</item>
+               <item>"The Chronicle of S. Swithins Monastery.</item>
+               <item>"The Annals of England by Th. Otterburn.</item>
+               <item>"Chron. of the Monastry of Mailroſe.</item>
+               <item>"Chron. of England by Jo. Merilynch.</item>
+               <item>"Chron. of the Monastry of St. Edmund.</item>
+               <item>"The Genealogy of the Kings of England and Catalogue of Abbots of Glaſſenbury.</item>
+               <item>"History of Biſhops of Bath and Wells.</item>
+               <item>"The Title of Edward the third to the King<g ref="char:EOLhyphen"/>dom of France.</item>
+               <item>Severall Tracts of Sir Henry Spelman in <hi>Engliſh never yet Printed.</hi>
+               </item>
+               <item>Commentaries on ſeverall Books of the Holy Scripture in <hi>Engliſh never Printed.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list">
+            <head>Books making ready for the Preſs.</head>
+            <list>
+               <item>Justin Martyr, and other of the Greek Fathers reviſed in their Text and new Tranſlated.</item>
+               <item>Several Acts of the Ancient Martyrs, <hi>Lat. not yet Printed.</hi>
+               </item>
+               <item>Plutarch and other Claſſical Greek Writers Col<g ref="char:EOLhyphen"/>lated with MSS. and new Tranſlated.</item>
+               <item>Several Greek Councils <hi>never Printed.</hi>
+               </item>
+               <item>The Commentaries of Saadias and other Robbins on part of the H. Bible in <hi>Arabic, net yet Printed.</hi>
+               </item>
+               <item>Math. Quaestor against the Latins or Roman Church, <hi>Gr. never Printed.</hi>
+               </item>
+               <item>The Ancient Mathematicians; as Euclid. Ar<g ref="char:EOLhyphen"/>chimedes, Apollonius, Pappus, Serenus &amp;c. <hi>Gr. &amp; Lat.</hi> Collated with MSS. <hi>ſome of them never ye Printed.</hi>
+               </item>
+               <item>Heraclius the Emperor's Astronomy <hi>Gr. &amp; Lat. never Printed.</hi>
+               </item>
+               <item>Vettius Valens Astrol. <hi>Gr. &amp; Lat. never Printed.</hi>
+               </item>
+               <item>Cyrills Gloſſ. <hi>Gr. never Printed.</hi>
+               </item>
+               <item>
+                  <hi>The Ancient Greek Grammarians; as</hi>
+                  <list>
+                     <item>"Herodian his Epitome of the 20 Books of Theodoſius, <hi>never Printed.</hi>
+                     </item>
+                     <item>"Chaeroboſcus his Canons <hi>never Printed.</hi>
+                     </item>
+                     <item>"Porphyries Gram. <hi>never Printed.</hi>
+                     </item>
+                     <item>"Herodians Scholia on Homer, <hi>never Printed.</hi>
+                     </item>
+                     <item>"Several Scholia on the Greek Poets <hi>not yet Printed.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>The Poliorcetics of Athenaeus, Bito and others, <hi>never Printed.</hi>
+               </item>
+               <item>The Miſna <hi>Heb. &amp; Lat.</hi>
+               </item>
+               <item>Dionyſ. Exig. as it ſuppoſed, his Catena on the Epiſtles of S. Paul in <hi>Syriac, never Printed.</hi>
+               </item>
+               <item>Abdollatiph Ebn Yuſeph Bagdadenſis <hi>Arab. &amp; Lat.</hi> of things remarkable in Egypt.</item>
+               <item>Abulfedas Geogr. <hi>Arab. &amp; Lat. never Printed.</hi>
+               </item>
+               <item>The Liturgie of the Coptites in the <hi>Egyptian Tongue.</hi>
+               </item>
+               <item>The Pſalter in the <hi>Egyptian Tongue.</hi>
+               </item>
+               <item>The Writers of the Britiſh Hiſtory many of which were <hi>never Printed.</hi> or not in the Volume put forth at Frankford.</item>
+               <item>A Grammar of the Malaian Tongue.</item>
+               <item>The Saxon Homilies.</item>
+               <item>The Saxon Chronicle, and other Writers of the Saxon Hiſtory, a great part of which <hi>never Printed.</hi>
+               </item>
+               <item>The Saxon and Engliſh Laws, till Acts of Par<g ref="char:EOLhyphen"/>liament, many of which <hi>never Printed.</hi>
+               </item>
+               <item>The Writers of the Engliſh Hiſtory put forth by Sr. Henry Savil and others Collated with better Copies, and exceedingly much corrected.</item>
+               <item>Jo. Lelands Works ſeveral of which <hi>never yet Printed.</hi>
+               </item>
+               <item>Lives of eminent Perſons both Foreigners and Engliſh, many of which <hi>never Printed.</hi>
+               </item>
+               <item>Several Latin Claſſical Writers Collated with MSS. and illuſtrated with Annotations.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
